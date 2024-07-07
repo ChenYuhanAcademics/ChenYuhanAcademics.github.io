@@ -14,7 +14,7 @@ name                     : &name "Yuhan Chen"
 description              : &description "personal description"
 url: https://ChenYuhanAcademics.github.io
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "ChenYuhanAcademics/yuhanchen.github.io"
+repository: "ChenYuhanAcademics/ChenYuhanAcademics.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
